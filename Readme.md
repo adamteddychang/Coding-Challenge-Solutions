@@ -1,0 +1,1 @@
+1. [Two_sum from leetcode](https://leetcode.com/problems/two-sum/)
