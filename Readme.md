@@ -2,3 +2,5 @@
 2. [Validate subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)
 3. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 4. [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+5. (1)[Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)  (2)[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+6. [implement strStr()](https://leetcode.com/problems/implement-strstr/)
