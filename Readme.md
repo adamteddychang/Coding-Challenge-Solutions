@@ -7,3 +7,5 @@
 7. [Remove Element](https://leetcode.com/problems/remove-element/)
 8. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 9. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+10. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+11. [Rotate Array](https://leetcode.com/problems/rotate-array/)
