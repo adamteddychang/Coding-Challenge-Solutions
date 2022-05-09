@@ -10,3 +10,4 @@
 10. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 11. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 12. [Move Zeros](https://leetcode.com/problems/move-zeros/)
+13. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
