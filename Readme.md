@@ -9,3 +9,4 @@
 9. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 10. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 11. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+12. [Move Zeros](https://leetcode.com/problems/move-zeros/)
