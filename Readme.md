@@ -11,3 +11,6 @@
 11. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 12. [Move Zeros](https://leetcode.com/problems/move-zeros/)
 13. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+14. [Reverse String](https://leetcode.com/problems/reverse-string/)
+15. [Reverse Words in the string III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+16. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
