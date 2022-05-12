@@ -16,3 +16,5 @@
 16. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 17. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 18. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+19. [Permutations](https://leetcode.com/problems/permutations/)
+20. [Permutations II](https://leetcode.com/problems/permutations-ii/)
