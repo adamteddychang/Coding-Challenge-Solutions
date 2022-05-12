@@ -14,3 +14,5 @@
 14. [Reverse String](https://leetcode.com/problems/reverse-string/)
 15. [Reverse Words in the string III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 16. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+17. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+18. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
