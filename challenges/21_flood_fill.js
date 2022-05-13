@@ -10,5 +10,6 @@ const fill = (image, x, y, oldColor, newColor) => {
   fill(image, x, y - 1, oldColor, newColor);
 };
 const floodFill = function (image, sr, sc, newColor) {
+  fill(image, sr, sc, image[sr][sc], newColor);
   return image;
 };
