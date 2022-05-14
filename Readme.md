@@ -20,3 +20,8 @@
 20. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 21. [Flood Fill](https://leetcode.com/problems/flood-fill/)
 22. [Permutations in String](https://leetcode.com/problems/permutations-in-string/)
+23. [Get nth fibonacci number](https://www.algoexpert.io/questions/Nth%20Fibonacci)
+
+24. [Remove Duplicates from linked list](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
+25. [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
+26. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
