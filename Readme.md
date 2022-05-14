@@ -18,4 +18,5 @@
 18. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 19. [Permutations](https://leetcode.com/problems/permutations/)
 20. [Permutations II](https://leetcode.com/problems/permutations-ii/)
-21.[Flood Fill](https://leetcode.com/problems/flood-fill/)
+21. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+22. [Permutations in String](https://leetcode.com/problems/permutations-in-string/)
