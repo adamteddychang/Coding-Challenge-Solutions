@@ -25,3 +25,4 @@
 24. [Remove Duplicates from linked list](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
 25. [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
 26. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) ]
