@@ -30,3 +30,4 @@
 29. [Plus One](https://leetcode.com/problems/plus-one/)
 30. [Square Root](https://leetcode.com/problems/sqrtx)
 31. [Remove Duplicates from a sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+32. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)
