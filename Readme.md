@@ -28,3 +28,4 @@
 27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 28. [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
 29. [Plus One](https://leetcode.com/problems/plus-one/)
+30. [Square Root](https://leetcode.com/problems/sqrtx)
