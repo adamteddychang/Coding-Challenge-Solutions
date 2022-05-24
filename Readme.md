@@ -35,3 +35,4 @@
 34. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 35. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 36. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+37. [Path Sum](https://leetcode.com/problems/path-sum/)
