@@ -37,3 +37,4 @@
 36. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 37. [Path Sum](https://leetcode.com/problems/path-sum/)
 38. [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
+39. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
